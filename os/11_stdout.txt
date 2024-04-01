@@ -1,0 +1,2 @@
+use printf to print in stdout
+use fprintf to print in stdout

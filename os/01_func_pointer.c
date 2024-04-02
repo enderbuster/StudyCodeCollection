@@ -19,5 +19,5 @@ int main(int argc,char *argv[])
 	f=&sub;
 	printf("1-2=%d\n",(*f)(1,2));
 
-	return 1;
+	return 0;
 }
